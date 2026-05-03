@@ -1,0 +1,130 @@
+饭总群 https://t.me/TVBoxxoo
+OK群   https://t.me/okdespace
+影视群 https://t.me/fongmi_official
+牛二群  https://t.me/wangerxiaofangniuwa
+蜂蜜(原版) https://t.me/ys_tvb
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+https://t.me/tvb_ys
+https://github.com/FongMi/Release
+https://github.com/FongMi/Release/tree/fongmi/apk
+
+mobile = 手机版
+leanback = 电视版
+
+java = jar + js 爬虫
+python = jar + js + py 爬虫
+
+arm64_v8a = 64 位
+armeabi_v7a = 32 位
+
+dev = 內测版
+kitkat = 4.x 版
+release = 正式版
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+DEX → 搜索（代码） 
+
+       "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback.json"
+
+       "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile.json"
+
+        new-instance v0, Lorg/json/JSONObject;
+        
+        :try_start_fd
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+[2340]  new-instance v0, Lorg/json/JSONObject;
+
+[2343]  const-string v1, "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback.json"
+
+[2355]  const-string v1, "name"
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+DEX → 搜索（代码） 
+     
+       "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk"
+
+       "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk"
+
+       "update.apk"
+
+       :sswitch_data_6e
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+[36]    sparse-switch p1, :sswitch_data_6e
+
+[44]    const-string v1, "update.apk"
+
+
+[51]    const-string v1, "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk"
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+DEX → 搜索（代码） 
+
+       "leanback.json"
+
+       "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/"  →  "https://16756.kstore.space/"       
+
+       "name"
+
+更新内容
+
+       https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback.json
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+DEX → 搜索（代码） 
+
+       "leanback-armeabi_v7a.apk"
+
+       "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/"  →  "https://16756.kstore.space/"
+
+       "update.apk"
+
+更新地址
+
+       https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+Arsc 搜索
+
+背景
+wallpaper_1 → Y3.webp
+
+圆标
+ic_logo → Bw.png → uX.png
+
+横标
+ic_banner_foreground → bn.xml → o-.png
+
+方标
+ic_launcher_foreground → Qr.xml → Qr.png
+
+影视 → 麒麟影视
+
+版本 → 版本 5.3.7 
+
+正在检查更新... → 麒麟影视工作室  20260416
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+DEX 搜索
+
+5.3.7 → 第三方下载：（appck.top）
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+
+assets://qlys/qlys_ZHZB.json
+
+assets://qlys/qlys_JXDC.json
+
+
+
