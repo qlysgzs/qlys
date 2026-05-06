@@ -1,0 +1,23 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "东峰机电之精选单仓",
+      "sourceUrl": "https://16756.kstore.space/qlys_JXDC.json"
+    },
+    {
+      "sourceName": "东峰机电之讴歌单仓",
+      "sourceUrl": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=2"
+    },
+    {
+      "sourceName": "东峰机电之全网单仓",
+      "sourceUrl": "https://d.kstore.dev/download/12441/dc6.json"
+    },
+    {
+      "sourceName": "东峰机电之多多单仓",
+      "sourceUrl": "https://gitgud.io/iduo/cool/-/raw/master/duo.json"
+    },
+    {
+      "sourceName": "东峰机电之拾光单仓",
+      "sourceUrl": "http://xmbjm.fh4u.org/dc.txt"
+    }
+  ]
